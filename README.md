@@ -8,6 +8,8 @@
 
 Раздел Info - страница с общей информацией о сайте. Она открывается при нажатии на знак вопроса в правом верхнем углу. Здесь можно половить кнопочку.
 
+Для запуска: клонируйте репозиторий, установите зависимости (npm install), запустите (npm start).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
